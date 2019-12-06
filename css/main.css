@@ -143,6 +143,22 @@ header {
     font-weight: 300;
 }
 
+footer {
+    height: 30vh;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(215,215,219,1) 13%, rgba(27,232,212,0.98) 63%, rgba(0,154,139,1) 100%);
+    position: relative;
+}
+
+footer h2 {
+    left: 39%;
+    top: 33%;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+}
+
 
 
 
